@@ -70,3 +70,8 @@ All scripts are self-contained and compatible with a **standard Google Colab** o
 ```bash
 git clone https://github.com/JamesCobley/EMF_Redox.git
 cd EMF_Redox
+
+pip install -r Requirements.txt
+python Local_EMF_rates.py
+
+
